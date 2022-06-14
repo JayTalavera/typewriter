@@ -12,7 +12,7 @@ import "github.com/JayTalavera/typewriter"
 func main() {
 	typewriter.Printf("This is the first test. \n", 75)
   
-  typewriter.Println("This is the second test.", 90)
+  	typewriter.Println("This is the second test.", 90)
 
 	typewriter.Words("This is typing out one word at a time.", 250)
 } 
