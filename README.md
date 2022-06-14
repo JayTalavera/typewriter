@@ -1,6 +1,6 @@
 # typewriter
 
-Typewriter package can be used to have Go print strings, character by character with a set wait time between each printer character. You can also have words be printed out one by one.
+Typewriter package can be used to have Go print strings, character by character with a set wait time between each printed character. You can also have words be printed out one by one.
 
 ### Usage
 
