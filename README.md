@@ -4,7 +4,7 @@ Typewriter package can be used to have Go print strings, character by character 
 
 ### Usage
 
-```
+```go
 package main
 
 import "github.com/JayTalavera/typewriter"
